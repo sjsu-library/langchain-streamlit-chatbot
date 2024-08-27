@@ -1,1 +1,2 @@
-# langchain-streamlit-chatbot
+Chatbot with Langchain Streamlit and Chroma
+
