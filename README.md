@@ -14,8 +14,8 @@ REDhat 8, python 3.9, Lanchain 0.1, Chroma 0.4.24, Streamlit 1.36
 ## Steps:
 1. Vector database
 - Downlaod Chroma, Langchain. 
-- Put the data file (here is in csv format, could be other format) at DATAPATH
-- Run saveChromadb.py
+- Put the data file (here is in csv format, could be other format) at DATAPATH.
+- Run saveChromadb.py.
 - Get the chroma file from DBPATH.
 - Use podman to launch the Chroma server with the chroma file:
 
@@ -23,7 +23,7 @@ REDhat 8, python 3.9, Lanchain 0.1, Chroma 0.4.24, Streamlit 1.36
 
 2. Chatbot
 - Downlaod Lanchain, Streamlit.
-- Streamlit run chatbot.py
+- Streamlit run chatbot.py.
 
 3. Mysql for response stats (optional)
 If you would like to save users' respone or feedback, set up mysql access.
