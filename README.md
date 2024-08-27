@@ -18,6 +18,7 @@ REDhat 8, python 3.9, Lanchain 0.1, Chroma 0.4.24, Streamlit 1.36
 - Run saveChromadb.py
 - Get the chroma file from DBPATH.
 - Use podman to launch the Chroma server with the chroma file:
+
   podman run -d --rm --name [chromadbname] -v [/pathto/your/chromafile] -e IS_PERSISTENT=TRUE  chromadb/chroma:latest
 
 2. Chatbot
