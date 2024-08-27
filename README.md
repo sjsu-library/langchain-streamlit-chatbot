@@ -26,5 +26,6 @@ REDhat 8, python 3.9, Lanchain 0.1, Chroma 0.4.24, Streamlit 1.36
 - Streamlit run chatbot.py.
 
 3. Mysql for response stats (optional)
-If you would like to save users' respone or feedback, set up mysql access.
+   
+  If you would like to save users' respone or feedback, set up mysql access.
 
