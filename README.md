@@ -1,21 +1,17 @@
 # Build a chatbot powered by Langchain, Chroma, and Streamlit
 
-
-
-
-Requirments:
+## Requirments:
 Install python, Langchain, Chroma, and Streamlit.
 
-Setup:
+## Setup:
 1, Vector database
 2, Chatbot
 3, Mysql for response stats (optional)
 
-Tested:
+## Tested:
 REDhat 8, python 3.9, Lanchain 0.1, Chroma 0.4.24, Streamlit 1.36
 
-
-Steps:
+## Steps:
 1, Vector database
 Downlaod Chroma, Langchain. 
 Put the data file (here is in csv format, could be other format) at DATAPATH
